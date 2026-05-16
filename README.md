@@ -11,4 +11,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Sanikarahane/Leetcode_Questions/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Sanikarahane/Leetcode_Questions/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Sanikarahane/Leetcode_Questions/tree/master/0595-big-countries) |
+| [1068-product-sales-analysis-i](https://github.com/Sanikarahane/Leetcode_Questions/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
