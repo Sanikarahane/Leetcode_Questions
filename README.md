@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Sanikarahane/Leetcode_Questions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Sanikarahane/Leetcode_Questions/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Sanikarahane/Leetcode_Questions/tree/master/0607-sales-person) |
+| [0620-not-boring-movies](https://github.com/Sanikarahane/Leetcode_Questions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/Sanikarahane/Leetcode_Questions/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sanikarahane/Leetcode_Questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
