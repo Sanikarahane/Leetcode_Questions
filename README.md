@@ -18,4 +18,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Sanikarahane/Leetcode_Questions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Sanikarahane/Leetcode_Questions/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sanikarahane/Leetcode_Questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1667-fix-names-in-a-table](https://github.com/Sanikarahane/Leetcode_Questions/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
